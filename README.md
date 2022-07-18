@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 -->
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=i_am_desperate)](https://solved.ac/profile/i_am_desperate/)
+
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=i_am_desperate&theme=dark)
