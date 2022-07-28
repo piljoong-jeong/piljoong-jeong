@@ -20,4 +20,4 @@ Here are some ideas to get you started:
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=i_am_desperate&cache=c">
   <img src="http://mazandi.herokuapp.com/api?handle=i_am_desperate&theme=warm"/>
 </p>
-Yeah I was definitely desperate at that time 🤣🤣🤣
+<p align="center">Yeah I was definitely desperate at that time 🤣🤣🤣</p>
